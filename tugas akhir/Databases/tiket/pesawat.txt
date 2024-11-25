@@ -1,0 +1,5 @@
+pesawat Jakarta Bali 1500000 07:30 50
+pesawat Jakarta Surabaya 1200000 09:00 40
+pesawat Bali Surabaya 800000 11:15 30
+pesawat Surabaya Medan 1800000 14:45 35
+pesawat Medan Jakarta 2000000 19:00 25
