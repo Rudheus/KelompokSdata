@@ -1,1 +1,1 @@
-Pastikan untuk membuat file nya di drive D Dengan nama 'tugas akhir' untuk Programnya berjalan dengan lancar
+semoga lancar
