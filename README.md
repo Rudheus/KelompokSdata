@@ -1,1 +1,0 @@
-#Bismillah semoga diberi keringanan#
