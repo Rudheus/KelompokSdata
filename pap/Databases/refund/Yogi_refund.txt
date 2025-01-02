@@ -1,0 +1,4 @@
+kereta Jakarta Surabaya 250000 10:00
+Bus Palembang Lampung 75000 08:30
+pesawat Jakarta Bali 1500000 07:30
+Bus Makassar Parepare 60000 07:00

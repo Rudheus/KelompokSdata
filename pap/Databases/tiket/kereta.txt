@@ -1,0 +1,5 @@
+kereta Jakarta Bandung 80000 07:00 0 0
+kereta Jakarta Surabaya 250000 10:00 -1 2
+kereta Bandung Jogja 150000 12:30 0 0
+kereta Surabaya Malang 90000 14:00 0 0
+kereta Malang Jakarta 200000 17:30 -1 1

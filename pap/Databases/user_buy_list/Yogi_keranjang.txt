@@ -1,0 +1,3 @@
+1 pesawat Bali Surabaya 800000 11:15
+2 kereta Malang Jakarta 200000 17:30
+3 kereta Jakarta Surabaya 250000 10:00
